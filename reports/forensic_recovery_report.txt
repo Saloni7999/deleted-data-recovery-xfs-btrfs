@@ -1,0 +1,11 @@
+DELETED DATA RECOVERY - FORENSIC REPORT
+=======================================
+
+Filesystem: Btrfs
+Original filename: secret.txt
+Recovered file: recovered/btrfs/btrfs_secret_recovered.txt
+Data offset: 39271606
+Recovered size: 57
+Recovery timestamp: 2026-10-08 03:12:26
+SHA-256: e0dd7385bfce248713a6a328a233b09405986af0a9700cb5861fbccdef44a2af
+Recovery status: SUCCESSFUL
