@@ -9,3 +9,33 @@ Recovered size: 57
 Recovery timestamp: 2026-10-08 03:12:26
 SHA-256: e0dd7385bfce248713a6a328a233b09405986af0a9700cb5861fbccdef44a2af
 Recovery status: SUCCESSFUL
+
+
+DELETED DATA RECOVERY - FORENSIC REPORT
+=======================================
+Timestamp: 2026-11-12 08:41:52
+Filesystem: XFS
+Source image: /home/kali/deleted-data-recovery/pilot/images/xfs_pilot.img
+Original filename: secret.txt
+Recovered file: /home/kali/deleted-data-recovery/recovered/xfs_secret_recovered.txt
+Data offset: 57344
+Recovered size: 55 bytes
+Recovery duration: 0.015035 seconds
+SHA-256: 5ea682a8aa9a1ef95621cf5169b759b4027567e93ede9dd50cc4a8f9928ece4e
+Reference hash match: Yes
+Recovery status: SUCCESS
+
+
+DELETED DATA RECOVERY - FORENSIC REPORT
+=======================================
+Timestamp: 2026-11-12 08:44:47
+Filesystem: Btrfs
+Source image: /home/kali/deleted-data-recovery/pilot/images/btrfs_pilot.img
+Original filename: secret.txt
+Recovered file: /home/kali/deleted-data-recovery/recovered/btrfs/btrfs_secret_recovered.txt
+Data offset: 39271606
+Recovered size: 57 bytes
+Recovery duration: 0.014203 seconds
+SHA-256: e0dd7385bfce248713a6a328a233b09405986af0a9700cb5861fbccdef44a2af
+Reference hash match: Yes
+Recovery status: SUCCESS

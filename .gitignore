@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *.img
 
 # Byte-compiled / optimized / DLL files
@@ -221,4 +220,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
->>>>>>> 9254ec3d937f62a1631ab3e9735d21573db304e1

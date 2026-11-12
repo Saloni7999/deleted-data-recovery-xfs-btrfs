@@ -1,0 +1,7 @@
+Trial,Filesystem,Detection,Occurrences,Offset,Scan_Time_Seconds,Recovery_Time_Seconds,Recovered_Size_Bytes,SHA256_Match,Recovery_Status
+1,XFS,Yes,1,57344,0.918763,0.019294,55,Yes,Success
+1,Btrfs,Yes,6,39271606,15.091117,0.064763,57,Yes,Success
+2,XFS,Yes,1,57344,0.880073,0.010456,55,Yes,Success
+2,Btrfs,Yes,6,39271606,10.831533,0.012529,57,Yes,Success
+3,XFS,Yes,1,57344,1.087077,0.029646,55,Yes,Success
+3,Btrfs,Yes,6,39271606,10.763472,0.009100,57,Yes,Success

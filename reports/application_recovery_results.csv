@@ -1,0 +1,3 @@
+Timestamp,Filesystem,Image,Detection,Occurrences,Offset,Scan_Time_Seconds,Recovery_Time_Seconds,Recovered_Size_Bytes,SHA256_Match,Recovery_Status
+2026-11-12 08:41:52,XFS,/home/kali/deleted-data-recovery/pilot/images/xfs_pilot.img,Yes,1,57344,6.457042,0.015035,55,Yes,SUCCESS
+2026-11-12 08:44:47,Btrfs,/home/kali/deleted-data-recovery/pilot/images/btrfs_pilot.img,Yes,6,39271606,17.749815,0.014203,57,Yes,SUCCESS
